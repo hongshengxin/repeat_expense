@@ -1,0 +1,8 @@
+[INFO]  2020-06-10 14:54:49,682  module.py  52  sensitive_module ---message--- {'text': '你滚2远点好吧，你大爷的', 'rebuildModel': True, 'modelId': '234', 'keywords': ['滚远点', '滚', '卧槽', '你大爷的']}
+[INFO]  2020-06-10 14:54:49,684  module.py  66  sensitive_module ---message--- ['1:1=滚', '1:3=滚远点']
+[INFO]  2020-06-10 14:54:52,066  module.py  52  sensitive_module ---message--- {'text': '你滚2远点好吧，你大爷的', 'rebuildModel': True, 'modelId': '234', 'keywords': ['滚远点', '滚', '卧槽', '你大爷的']}
+[INFO]  2020-06-10 14:54:52,066  module.py  66  sensitive_module ---message--- ['1:1=滚', '1:3=滚远点']
+[INFO]  2020-06-10 14:54:54,623  module.py  52  sensitive_module ---message--- {'text': '你滚2远点好吧，你大爷的', 'rebuildModel': True, 'modelId': '234', 'keywords': ['滚远点', '滚', '卧槽', '你大爷的']}
+[INFO]  2020-06-10 14:54:54,623  module.py  66  sensitive_module ---message--- ['1:1=滚', '1:3=滚远点']
+[INFO]  2020-06-10 14:54:55,554  module.py  52  sensitive_module ---message--- {'text': '你滚2远点好吧，你大爷的', 'rebuildModel': True, 'modelId': '234', 'keywords': ['滚远点', '滚', '卧槽', '你大爷的']}
+[INFO]  2020-06-10 14:54:55,554  module.py  66  sensitive_module ---message--- ['1:1=滚', '1:3=滚远点']
